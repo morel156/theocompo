@@ -1,0 +1,91 @@
+*{
+    padding: auto;
+    background-color: rgb(22, 22, 21);
+    color: beige;
+}
+.theo1{
+   align-items: center;
+    list-style-type: none;
+    display: flex;
+    /* gap: 3px; */
+    justify-content:space-between;
+    padding: 3px;
+    float: center;
+    box-shadow: 0px 4px 8px rgb(221, 34, 34);
+    margin-left: 30px;
+    border: 6px solid black;
+ 
+}
+.nav a:hover{
+    box-shadow: 0px 4px 8px rgb(red, green, blue);
+    background-color: rgb(221, 34, 34);
+    border-radius: 20px;
+}
+nav{
+    text-align: right;
+}
+span{
+    color: rgb(192, 192, 24);
+}
+h1{
+    font-size: 50px;
+}
+.morel{
+    float: center;
+    box-shadow: 0px 4px 8px rgb(221, 34, 34);
+    margin-left: 30px;
+    border: 6px solid black;
+
+}
+.max{
+    text-align: center;
+}
+.p1{
+    text-align: left;
+}
+.herveola{
+    float: center;
+    box-shadow: 0px 4px 8px rgb(221, 34, 34);
+    margin-left: 30px;
+    border: 6px solid black;
+}
+.murielle{
+    float: center;
+    box-shadow: 0px 4px 8px rgb(221, 34, 34);
+    margin-left: 30px;
+    border: 6px solid black;
+}
+.esme{
+
+    border: 6px solid black;
+    float: center;
+    box-shadow: 0px 4px 8px rgb(221, 34, 34);
+    margin-left: 30px;
+    border: 6px solid black;
+}
+
+.quote blockquote {
+    font-size: 1.5em;
+    color: #ffd700;
+    margin: 40px auto;
+    max-width: 800px;
+    font-style: italic;
+}
+.farel{
+  
+    
+    border: 6px solid black;
+    float: center;
+    box-shadow: 0px 4px 8px rgb(221, 34, 34);
+    margin-left: 30px;
+    border: 6px solid black;
+}
+.vania{
+    border: 6px solid black;
+    float: center;
+    box-shadow: 0px 4px 8px rgb(221, 34, 34);
+    margin-left: 30px;
+    border: 6px solid black;
+    float: center;
+    text-align: center;
+}
